@@ -1,5 +1,6 @@
 class User:
     def __init__(self):
+       
         print("I am parent constructor")
 
     def login(self):
@@ -18,10 +19,23 @@ class Student(User):
     def review(self):
         print("Student reviewed the course")
 
-s1=Student()
+# s1=Student()
+u =User()
 
 # s1= Student()
 # s1.login()
 # s1.register()
 # s1.enroll()
 # s1.review()
+
+
+class A:
+    pass
+
+class B(A):
+    pass
+
+class C(B):
+    pass
+
+print(C.__mro__)

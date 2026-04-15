@@ -27,10 +27,12 @@ class Fraction:
         temp_den= self.den * other.num
         return "{}/{}".format(temp_num, temp_den)
 
+
+
 x= Fraction(2,5)
 y= Fraction(3,5)
 print(x+y)
 print(x-y)
 print(x*y)
 print(x/y)
-# print(type(x))
+print(type(x))

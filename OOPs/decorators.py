@@ -40,7 +40,6 @@ greet("Karan", "Hii")
 
 # Cache return values
 # Memoization 
-
 def cache(func):
     cache_value={}
     print(cache_value)
