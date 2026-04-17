@@ -10,7 +10,7 @@ heads_count = 0
 tails_count = 0
 
 for i in range(num_of_flips):
-    flip_result = random.randint(0,1)
+    flip_result = random.random()
     if flip_result < 0.5:
         tails_count += 1
     else:
