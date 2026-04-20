@@ -15,6 +15,7 @@ class Bank:
             deposit_amount= float(input("Enter initial deposit amount: "))
             self.deposit(account_number, deposit_amount)
         
+        
         def deposit(self, account_number, amount):
             if account_number in self.accounts:
                 self.__balance+=amount

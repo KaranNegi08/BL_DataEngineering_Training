@@ -6,7 +6,6 @@ class Libarary:
         if book_name in self.books:
             self.books[book_name] += 1
             print(f"One more added {book_name} added. ")
-            print("Book already exists.")
         else:
             self.books[book_name]=1
             print(f"{book_name} Book added successfully.")
