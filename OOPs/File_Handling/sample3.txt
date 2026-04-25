@@ -1,5 +1,0 @@
-hello
-hi
-How are you
- i am tuple
-dict
