@@ -5,7 +5,7 @@ def validate_id(emp_id):
     return re.match(pattern,emp_id, re.IGNORECASE)
 
 def validate_email(email):
-    pattern = r'^[a-zA-Z]\w+@\w+\.com$'
+    pattern = r'^[a-zA-Z]\w+@company\.com$'
     return re.match(pattern,email, re.IGNORECASE)
 
 def validate_employee(emp_id, email):
