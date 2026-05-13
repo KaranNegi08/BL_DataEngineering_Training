@@ -5,6 +5,15 @@ np.random.seed(1)
 
 temperature_readings= np.random.randint(-4,45,size=(7,24))
 # print(temperature_readings)
+days=[
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thrusday",
+    "Friday",
+    "Saturday",
+    "Sunday"
+]
 
 # Find the daily maximum and minimum temperature
 max_temp = temperature_readings.max(axis=1)
@@ -15,8 +24,10 @@ min_temp = temperature_readings.min(axis=1)
 
 # Identify the day with the largest temperature variation
 max_variation= max_temp-min_temp
+max_variation_index= np.argmax(max_variation)
+max_variation_day= days[max_variation_index]
 # print(max_variation)
-# print(f"The day with the largest temperature variation is at index: {np.argmax(max_variation)}")
+print(f"The day with the largest temperature variation is: {max_variation_day}")
 
 mean_temp = temperature_readings.mean()
 std_deviation = temperature_readings.std()
