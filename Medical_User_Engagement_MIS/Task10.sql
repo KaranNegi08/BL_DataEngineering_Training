@@ -1,0 +1,4 @@
+-- SELECT COUNT(patient_id) AS total_patients FROM patients
+-- SELECT AVG(age) AS average_age FROM patients 
+-- SELECT SUM(session_duration) AS total_duration_minutes FROM user_engagement;
+-- SELECT patient_id , COUNT(session_duration) AS total_sessions FROM user_engagement GROUP BY patient_id;
