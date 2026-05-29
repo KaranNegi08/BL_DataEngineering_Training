@@ -1,0 +1,3 @@
+-- ALTER TABLE patients ADD COLUMN disability VARCHAR(10) CHECK (disability IN ('Yes','No'));
+-- ALTER TABLE appointments RENAME COLUMN status TO current_status;
+-- DROP TABLE engagement_summary;
