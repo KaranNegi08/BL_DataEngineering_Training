@@ -1,0 +1,4 @@
+-- SELECT * FROM prescriptions;
+-- SELECT dosage::INT FROM prescriptions;
+-- SELECT prescribed_date::TEXT FROM prescriptions;
+-- SELECT 12.6::INT;
