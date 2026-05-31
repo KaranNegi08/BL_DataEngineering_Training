@@ -1,0 +1,16 @@
+-- Backup---
+-- Right-click the database.
+-- Choose Backup...
+-- Select:
+-- Format: Custom
+-- File: C:\PostgreSQL_data\medical_backup.backup
+-- Click Backup.
+
+-- Restore
+-- Create a new database.
+-- Right-click the new database.
+-- Choose Restore...
+-- Select:
+-- Backup file
+-- Format: Custom
+-- Click Restore.
