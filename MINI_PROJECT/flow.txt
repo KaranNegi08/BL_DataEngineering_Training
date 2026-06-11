@@ -1,0 +1,18 @@
+AWS COVID Data Lake
+        │
+        ▼
+Extract Layer
+(PySpark)
+        │
+        ▼
+Bronze Layer
+(Raw Data)
+        │
+        ▼
+Silver Layer
+(Cleaned Data)
+        │
+        ▼
+Gold Layer
+(Business KPIs)
+        
