@@ -1,0 +1,101 @@
+description,industry,level,size,line_code,value
+Inventory Holding Cost,Retail,Low,Small,OM001,1250
+Machine Utilization Rate,Manufacturing,Medium,Large,OM002,87
+Order Fulfillment Time,E-commerce,High,Medium,OM003,42
+Production Downtime,Manufacturing,Critical,Large,OM004,18
+Customer Wait Time,Healthcare,Medium,Small,OM005,23
+Supply Chain Delay,Logistics,High,Large,OM006,12
+Warehouse Occupancy,Retail,Medium,Medium,OM007,74
+Defect Rate,Manufacturing,Critical,Large,OM008,3.2
+Delivery Lead Time,Logistics,High,Large,OM009,8
+Employee Productivity,IT Services,Low,Medium,OM010,92
+Inventory Turnover,Retail,Medium,Small,OM011,11
+Production Volume,Manufacturing,High,Large,OM012,5200
+Customer Satisfaction,Healthcare,Low,Medium,OM013,88
+Transport Cost,Logistics,Medium,Large,OM014,4600
+Order Accuracy,E-commerce,High,Medium,OM015,97
+Machine Utilization Rate,Automobile,Medium,Large,OM016,82
+Production Downtime,Food Processing,High,Medium,OM017,15
+Inventory Holding Cost,Retail,Medium,Large,OM018,1540
+Customer Wait Time,Healthcare,High,Small,OM019,31
+Supply Chain Delay,Logistics,Critical,Large,OM020,22
+Warehouse Occupancy,Retail,Low,Medium,OM021,68
+Defect Rate,Manufacturing,Medium,Large,OM022,4.1
+Delivery Lead Time,Logistics,Medium,Large,OM023,9
+Employee Productivity,IT Services,High,Medium,OM024,95
+Inventory Turnover,Retail,Medium,Small,OM025,14
+Production Volume,Manufacturing,Critical,Large,OM026,6100
+Customer Satisfaction,Healthcare,Medium,Medium,OM027,85
+Transport Cost,Logistics,High,Large,OM028,5300
+Order Accuracy,E-commerce,Medium,Medium,OM029,94
+Machine Utilization Rate,Manufacturing,High,Large,OM030,90
+Inventory Holding Cost,Retail,Low,Small,OM031,1320
+Order Fulfillment Time,E-commerce,Medium,Medium,OM032,48
+Production Downtime,Manufacturing,High,Large,OM033,12
+Customer Wait Time,Healthcare,Low,Small,OM034,18
+Supply Chain Delay,Logistics,Medium,Large,OM035,14
+Warehouse Occupancy,Retail,High,Medium,OM036,81
+Defect Rate,Manufacturing,Critical,Large,OM037,2.9
+Delivery Lead Time,Logistics,Low,Large,OM038,6
+Employee Productivity,IT Services,Medium,Medium,OM039,89
+Inventory Turnover,Retail,High,Small,OM040,16
+Production Volume,Manufacturing,High,Large,OM041,5800
+Customer Satisfaction,Healthcare,Critical,Medium,OM042,91
+Transport Cost,Logistics,Medium,Large,OM043,4900
+Order Accuracy,E-commerce,High,Medium,OM044,98
+Machine Utilization Rate,Automobile,Medium,Large,OM045,84
+Production Downtime,Food Processing,Critical,Medium,OM046,20
+Inventory Holding Cost,Retail,Medium,Large,OM047,1650
+Customer Wait Time,Healthcare,Medium,Small,OM048,26
+Supply Chain Delay,Logistics,High,Large,OM049,17
+Warehouse Occupancy,Retail,Medium,Medium,OM050,72
+Defect Rate,Manufacturing,High,Large,OM051,3.7
+Delivery Lead Time,Logistics,Critical,Large,OM052,11
+Employee Productivity,IT Services,Low,Medium,OM053,87
+Inventory Turnover,Retail,Medium,Small,OM054,13
+Production Volume,Manufacturing,High,Large,OM055,5400
+Customer Satisfaction,Healthcare,Medium,Medium,OM056,84
+Transport Cost,Logistics,High,Large,OM057,5100
+Order Accuracy,E-commerce,Medium,Medium,OM058,95
+Machine Utilization Rate,Manufacturing,Critical,Large,OM059,93
+Inventory Holding Cost,Retail,Low,Small,OM060,1180
+Order Fulfillment Time,E-commerce,High,Medium,OM061,39
+Production Downtime,Manufacturing,Medium,Large,OM062,10
+Customer Wait Time,Healthcare,High,Small,OM063,29
+Supply Chain Delay,Logistics,Medium,Large,OM064,16
+Warehouse Occupancy,Retail,Critical,Medium,OM065,86
+Defect Rate,Manufacturing,Low,Large,OM066,4.8
+Delivery Lead Time,Logistics,High,Large,OM067,7
+Employee Productivity,IT Services,Medium,Medium,OM068,90
+Inventory Turnover,Retail,Critical,Small,OM069,18
+Production Volume,Manufacturing,Medium,Large,OM070,5000
+Customer Satisfaction,Healthcare,High,Medium,OM071,89
+Transport Cost,Logistics,Critical,Large,OM072,6200
+Order Accuracy,E-commerce,Low,Medium,OM073,92
+Machine Utilization Rate,Automobile,High,Large,OM074,88
+Production Downtime,Food Processing,Medium,Medium,OM075,13
+Inventory Holding Cost,Retail,High,Large,OM076,1720
+Customer Wait Time,Healthcare,Critical,Small,OM077,35
+Supply Chain Delay,Logistics,Low,Large,OM078,11
+Warehouse Occupancy,Retail,Medium,Medium,OM079,76
+Defect Rate,Manufacturing,Medium,Large,OM080,3.5
+Delivery Lead Time,Logistics,Medium,Large,OM081,10
+Employee Productivity,IT Services,High,Medium,OM082,97
+Inventory Turnover,Retail,Low,Small,OM083,9
+Production Volume,Manufacturing,Critical,Large,OM084,6500
+Customer Satisfaction,Healthcare,Low,Medium,OM085,82
+Transport Cost,Logistics,Medium,Large,OM086,4700
+Order Accuracy,E-commerce,High,Medium,OM087,99
+Machine Utilization Rate,Manufacturing,Medium,Large,OM088,85
+Inventory Holding Cost,Retail,Critical,Small,OM089,1900
+Order Fulfillment Time,E-commerce,Medium,Medium,OM090,44
+Production Downtime,Manufacturing,High,Large,OM091,14
+Customer Wait Time,Healthcare,Medium,Small,OM092,24
+Supply Chain Delay,Logistics,Critical,Large,OM093,21
+Warehouse Occupancy,Retail,Low,Medium,OM094,69
+Defect Rate,Manufacturing,High,Large,OM095,3.1
+Delivery Lead Time,Logistics,Medium,Large,OM096,8
+Employee Productivity,IT Services,Critical,Medium,OM097,98
+Inventory Turnover,Retail,High,Small,OM098,17
+Production Volume,Manufacturing,Medium,Large,OM099,5600
+Customer Satisfaction,Healthcare,High,Medium,OM100,90
