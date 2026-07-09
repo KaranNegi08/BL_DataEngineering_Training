@@ -11,3 +11,8 @@ venv
 
 .vscode
 .idea
+
+.python-version
+pyproject-toml
+README.md
+uv.lock
